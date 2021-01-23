@@ -1,0 +1,29 @@
+###
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Dec 29 16:15:15 2020
+
+@author: ssinha
+"""
+
+
+
+def add(a,b):
+    return a+b
+
+
+def mul(a,b):
+    return a*b
+
+
+def div(a,b):
+    return a/b
+
+
+def sub(a,b):
+    return a-b
+
+
+
+
+print("Hello" +__name__)
